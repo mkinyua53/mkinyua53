@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/40ced871-b788-405a-a8e9-1f6a8d587569.svg)](https://wakatime.com/@40ced871-b788-405a-a8e9-1f6a8d587569)
+
 - 👋 Hi, I’m @mkinyua53
 - 👀 I’m interested in web based technology
 - 📫 Reach me on 
